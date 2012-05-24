@@ -1,0 +1,11 @@
+﻿// S4X8 EOLib 1.0
+// Marcos Vives Del Sol - 23/V/2012
+// Licenciado bajo la licencia CC-BY-SA
+
+Ésta es una librería de PHP diseñada para ser usada con el foro español ElOtroLado.net. Ésta requiere un intérprete actualizado y funcional de PHP (http://php.net/).
+
+También hace uso de la librería S4X8 HTTP 1.1 (incluída), que provee acceso directo a las peticiones HTTP, de forma que se puedan almacenar las cookies en RAM en lugar de ser escritas al disco duro, que es más rápido y seguro. Requiere además el intérprete PHP Simple HTML Dom Parser (http://simplehtmldom.sourceforge.net/), que debe de ser situado en la misma carpeta que EOLib.
+
+Se incluye example.polekiller.php, un ejemplo que está constantemente buscando nuevos hilos en un foro determinado, y envía un mensaje predeterminado en ellos.
+
+// EOF
