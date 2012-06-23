@@ -2,7 +2,7 @@
 
 // S4X8 HTTP Library 1.1
 // Marcos Vives Del Sol - 23/V/2012
-// Licensed under a CC-BY-SA license
+// CC-BY 3.0 license (http://creativecommons.org/licenses/by/3.0/)
 
 function my_http_parse_headers($headers) {
 	$retVal = array();

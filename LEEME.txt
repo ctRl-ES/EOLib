@@ -1,6 +1,6 @@
 ﻿// S4X8 EOLib 1.0
 // Marcos Vives Del Sol - 23/V/2012
-// Licenciado bajo la licencia CC-BY-SA
+// Licenciado bajo la licencia CC-BY 3.0 (http://creativecommons.org/licenses/by/3.0/)
 
 Ésta es una librería de PHP diseñada para ser usada con el foro español ElOtroLado.net. Ésta requiere un intérprete actualizado y funcional de PHP (http://php.net/).
 

@@ -1,6 +1,6 @@
 ﻿// S4X8 EOLib 1.0
 // Marcos Vives Del Sol - 23/V/2012
-// Licensed under a CC-BY-SA license
+// Licensed under the CC-BY 3.0 license (http://creativecommons.org/licenses/by/3.0/)
 
 This is a PHP library intented to be used with the Spanish forum ElOtroLado.net. This library requires both a working and updated PHP (http://php.net/) enviroment.
 

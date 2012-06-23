@@ -2,7 +2,7 @@
 
 // PoleKiller - S4X8 EOLib example
 // Marcos Vives Del Sol - 24/V/2012
-// Licensed under a CC-BY-SA license
+// CC-BY 3.0 license (http://creativecommons.org/licenses/by/3.0/)
 
 $nick = "USUARIO";
 $pass = "PASSWORD";
